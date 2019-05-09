@@ -4,7 +4,7 @@
 
 Hello, 
 I have focused on the implementation of **Splash Screen** or **Welcome Screen**, in which you will also get to know 
-how you can make a custom Spalsh Screen.
+how you can make a custom Splash Screen.
 
 # What you will learn. 
 - [x] Creating an Activity for Splash Screen, check *SplashScreenActivity*.
